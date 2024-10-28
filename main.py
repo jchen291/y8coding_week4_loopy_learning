@@ -4,16 +4,16 @@
 
 print("\nTASK 1 HERE\n")
 for i in range(5):
-    print("bob")
+    print("Bob")
 
 print("\nTASK 2 HERE\n")
 for j in range(7):
-    print("🍜Noodles"))
+    print("🍜 Noodles")
 print("🍚 Rice")
 
 print("\nTASK 3 HERE\n")
 for j in range(3):
-    print("🦖Dinosaur")
+    print("🦖 Dinosaur")
     print("🐘 Elephant")
 
 print("\nTASK 4 HERE\n")
@@ -35,9 +35,10 @@ for x in range(2):
 
 
 print("\nTASK 7 HERE\n")
+print("🦒 Giraffe")
 for x in range(3):
-    print("🦒 Giraffe")
     print("🐒 Monkey")
+
 
 
 print("\nTASK 8 HERE\n")
@@ -59,19 +60,39 @@ print("\nTASK 10 HERE\n")
 for i in range(2):
     for j in range(2):
         print("🐍 Snake")
-    print("🦎Lizard")    
+        print("🦎 Lizard")    
 
 
 print("\nTASK 11 HERE\n")
-
+print("🐹 Hamster")
+for i in range(2):
+    for j in range(2):
+        print("🐇 Bunny")
+    print("🐰 Rabbit")
 
 
 print("\nTASK 12 HERE\n")
-
+for i in range(2):
+    print("🐧 Penguin")
+    for j in range(3):
+        print("🐔 Chicken")
+    print("🦉 Owl")
 
 
 print("\nTASK 13 HERE\n")
-
+for i in range(2):	   
+    for j in range(3):	
+        print("🐶 Dog")
+    print("🐶 Dog", "🐱 Cat")
+    print("🐱 Cat")
+    for k in range(2):
+        print("🐱 Cat 🐱 Cat")
 
 
 print("\nTASK 14 HERE\n")
+print("🐐 Goat")
+for i in range(3):
+    print("🐑 Sheep")
+    print("🐑 Sheep")
+    for j in range(4):
+        print("🐐 Goat")
